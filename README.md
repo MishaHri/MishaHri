@@ -1,11 +1,9 @@
 <h1 align="center">Hello! I'm Misha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
-<img align ="right" alt = "Coding" width="400" src = "https://i.gifer.com/1kc1.gif">
-
 <p align="center">I have just completed a 25 week full stack web development bootcamp with Le Wagon, and can proudly state I am now a capable full stack developer.
 </p>
-
 <p align="center">I am excited about getting a role as a developer, because it will give me the oportunity to combine my previous experiences with the passion i have for writting code. Working as a construction engineer has always been highly technical and mathematical.</p>
+
 <h2 align="center">🛠️ My Skills</h2>
 <div align="center">
 	<code><img height="30" src="https://user-images.githubusercontent.com/25181517/192603745-7d34df9e-7756-4756-a539-6a61badf7a80.png" alt="Ruby" title="Ruby" /></code>
