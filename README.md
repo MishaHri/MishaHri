@@ -22,7 +22,5 @@
   <br>
 </div>
 <div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mishahri&show_icons=true&locale=en&layout=compact" alt="mishahri" /></p>
-<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mishahri&" alt="mishahri" /></p>
 </div>
