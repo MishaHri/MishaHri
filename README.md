@@ -21,7 +21,6 @@
 	<code><img height="30" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code" /></code>
   <br>
 </div>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mishahri&show_icons=true&locale=en&layout=compact" alt="mishahri" /></p>
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mishahri&" alt="mishahri" /></p>
 </div>
