@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer</h3>
 <p align="center">I have just completed a 25 week full stack web development bootcamp with Le Wagon, and can proudly state I am now a capable full stack developer.
 </p>
-<p align="center">I worked as a contruction engineer for 15 years, and now i have decided finally to follow my passion for coding and change my carrer.I am excited about getting a role as a developer, because it will give me the oportunity to combine my previous experiences with the passion i have for writting code. Working as a construction engineer has always been highly technical and mathematical.</p>
+<p align="center">I worked as a contruction engineer for 15 years, and now i have decided finally to follow my passion for coding and change my carrer. I am excited about getting a role as a developer, because it will give me the oportunity to combine my previous experiences with the passion i have for writting code. Working as a construction engineer has always been highly technical and mathematical.</p>
 
 <h2 align="center">🛠️ My Skills</h2>
 <div align="center">
