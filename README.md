@@ -25,6 +25,6 @@ I worked as a contruction engineer for 15 years, and now i have finally decided 
 </div>
   <br>
     <br>
-<div align="center">
+<!-- <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mishahri&" alt="mishahri" /></p>
-</div>
+</div> -->
